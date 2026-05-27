@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio Santa Rosa",
+  "description": "Dashboard clínico inteligente interactivo multirrol diseñado para una óptima gestión, toma de muestras, análisis y consulta médica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
